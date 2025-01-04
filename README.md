@@ -19,7 +19,6 @@ The Drum Wave web app is designed for music enthusiasts and aspiring drummers wh
 - [Configuration](#configuration)
 - [Testing](#testing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 - [FAQs](#faqs)
 - [Contact Information](#contact-information)
 
